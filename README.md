@@ -1,6 +1,8 @@
 # riv
 Robust instrumental variables estimator Use riv With (In) R Software
 
+https://www.youtube.com/watch?v=_RCgx4NKvgU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
